@@ -12,12 +12,32 @@ White LED lamp made with aluminium PCBs
 
 https://github.com/brainsmoke/esp32leddriver
 
-`fs/conf/model.json:`
+## ESP32
+
+https://github.com/brainsmoke/esp32leddriver/tree/master/firmware/esp32
+
+
+Edit `fs/conf/model.json:`
 
 ```
 {
 	"model": "/models/aluball"
 }
 ```
+
+## STM32
+
+https://github.com/brainsmoke/esp32leddriver/blob/master/firmware/stm32/m02812/src/uartball16.bin
+
+## PADAUK
+
+https://github.com/brainsmoke/esp32leddriver/tree/master/firmware/pdk/softpwm
+
+`make ADDRESS=...` 3x for each in 0..7
+
+Use the mapping in https://github.com/brainsmoke/aluball/blob/main/map.svg
+
+
+
 
 
