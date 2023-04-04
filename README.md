@@ -12,4 +12,7 @@ White LED lamp made with aluminium PCBs
 
 https://github.com/brainsmoke/esp32leddriver
 
+`firmware/esp32/fs/conf/model.json`
+
+
 
