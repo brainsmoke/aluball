@@ -33,11 +33,7 @@ https://github.com/brainsmoke/esp32leddriver/blob/master/firmware/stm32/m02812/s
 
 https://github.com/brainsmoke/esp32leddriver/tree/master/firmware/pdk/softpwm
 
-`make ADDRESS=...` 3x for each in 0..7
+`./write.sh <address>` 3x for each in 0..7
 
 Use the mapping in https://github.com/brainsmoke/aluball/blob/main/map.svg
-
-
-
-
 
