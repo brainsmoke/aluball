@@ -27,7 +27,7 @@ Edit `fs/conf/model.json:`
 
 ## STM32
 
-https://github.com/brainsmoke/esp32leddriver/blob/master/firmware/stm32/m02812/src/uartball16.bin
+https://github.com/brainsmoke/esp32leddriver/blob/master/firmware/stm32/uartball16/uartball16.bin
 
 ## PADAUK
 
