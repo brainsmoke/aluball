@@ -88,8 +88,8 @@ echo("edge: ",i," length: ",l);
 	translate([0,-l/2-sizes[i]*s - padding,0])
 	angle_bracket(l, 6, 2.5,
 	              dihedral_angle,
-	              holes_gen, 2, 4.8,
-	              slits[i], 1.3,
+	              holes_gen, 2.2, 5.0,
+	              slits[i], 1.5,
 	              $fn=20);
 }
 
