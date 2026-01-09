@@ -10,11 +10,11 @@ White LED lamp made with aluminium PCBs
 
 # software
 
-https://github.com/brainsmoke/esp32leddriver
+https://github.com/brainsmoke/leddriver3d
 
 ## ESP32
 
-https://github.com/brainsmoke/esp32leddriver/tree/master/firmware/esp32
+https://github.com/brainsmoke/leddriver3d/tree/master/firmware/esp32
 
 
 Edit `fs/conf/model.json:`
@@ -27,11 +27,11 @@ Edit `fs/conf/model.json:`
 
 ## STM32
 
-https://github.com/brainsmoke/esp32leddriver/blob/master/firmware/stm32/uartball16/uartball16.bin
+https://github.com/brainsmoke/leddriver3d/blob/master/firmware/stm32/uartball16/uartball16.bin
 
 ## PADAUK
 
-https://github.com/brainsmoke/esp32leddriver/tree/master/firmware/pdk/softpwm
+https://github.com/brainsmoke/leddriver3d/tree/master/firmware/pdk/softpwm
 
 `./write.sh <address>` 3x for each in 0..7
 
